@@ -11,6 +11,7 @@
 - 🌱 Interested in Security & Automation
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbedrockwm&show_icons=true&theme=dark)
+<img src="https://raw.githubusercontent.com/0xbedrockwm/0xbedrockwm/main/certi/Cisco/NetworkingBasicsUpdate20250621-25-klbpaj.png" width="400" />
 
 
 ## Skills
