@@ -7,7 +7,6 @@
 
 ## About me
 -  Network / Firewall / Virtualization
--  Learning Flutter & App Development
 -  Interested in Security & Automation
 
 
