@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Wisanu
+# Hi there 👋 I'm 0xbedrockwm
 
 <img align="right" src="https://komarev.com/ghpvc/?username=0xbedrockwm&style=flat-square&color=blue" />
 
@@ -6,12 +6,11 @@
 
 
 ## About me
-- 🔧 Network / Firewall / Virtualization
-- 📱 Learning Flutter & App Development
-- 🌱 Interested in Security & Automation
+-  Network / Firewall / Virtualization
+-  Learning Flutter & App Development
+-  Interested in Security & Automation
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbedrockwm&show_icons=true&theme=dark)
-<img src="https://raw.githubusercontent.com/0xbedrockwm/0xbedrockwm/main/certi/Cisco/NetworkingBasicsUpdate20250621-25-klbpaj.png" width="400" />
+
 
 
 ## Skills
@@ -20,8 +19,7 @@
 - Linux / Docker
 - Git & GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbedrockwm&layout=compact&theme=dark)
 
 
 ## Contact
-- 📧 wisanu.mangkala@gmail.com
+-  wisanu.mangkala@gmail.com
