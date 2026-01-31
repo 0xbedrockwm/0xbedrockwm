@@ -1,4 +1,4 @@
-# Hi there 👋 I'm 0xbedrockwm
+# Hi there  I'm 0xbedrockwm
 
 <img align="right" src="https://komarev.com/ghpvc/?username=0xbedrockwm&style=flat-square&color=blue" />
 
