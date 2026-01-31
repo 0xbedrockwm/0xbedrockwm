@@ -1,16 +1,16 @@
-# 0xbedrokwm
 # Hi there 👋 I'm Wisanu
 
-<img align="right" src="https://komarev.com/ghpvc/?username=0xbedrockwm" />
+<img align="right" src="https://komarev.com/ghpvc/?username=0xbedrockwm&style=flat-square&color=blue" />
 
 **Network Engineer | Learning Flutter | IT Infrastructure**
+
 
 ## About me
 - 🔧 Network / Firewall / Virtualization
 - 📱 Learning Flutter & App Development
 - 🌱 Interested in Security & Automation
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbedrockwm&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbedrockwm&show_icons=true&theme=dark)
 
 
 ## Skills
@@ -19,7 +19,7 @@
 - Linux / Docker
 - Git & GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbedrockwm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbedrockwm&layout=compact&theme=dark)
 
 
 ## Contact
