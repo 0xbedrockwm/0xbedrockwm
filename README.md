@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=0xbedrockwm&style=flat-square&color=blue" />
 
-**Network Engineer | Learning Flutter | IT Infrastructure**
+**Network Engineer |  | IT Infrastructure**
 
 
 ## About me
