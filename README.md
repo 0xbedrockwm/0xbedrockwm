@@ -25,8 +25,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/
-  graph?username=0xbedrockwm&custom_title=Real-time%20Contribution%20Graph&hide_border=true&theme=github-compact" alt="Real-time activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xbedrockwm&custom_title=Real-time%20Contribution%20Graph&hide_border=true&theme=github-compact" alt="Real-time activity graph" />
 </p>
 
 
