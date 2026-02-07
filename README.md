@@ -16,7 +16,7 @@
 - FortiGate / VPN / SD-WAN
 - Windows Server / AD / GPO
 - Linux / Docker
-- Git & GitHub
+
 
 
 
