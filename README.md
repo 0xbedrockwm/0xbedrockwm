@@ -29,6 +29,14 @@
 </p>
 
 
+[![0xbedrockwm's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbedrockwm)](https://github.com/0xbedrockwm/github-readme-stats)
+
+![0xbedrockwm's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbedrockwm&hide=contribs,prs)
+
+![0xbedrockwm's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbedrockwm&show_icons=true&theme=radical)
+
+
+
 
 ## Contact
 -  wisanu.mangkala@gmail.com
