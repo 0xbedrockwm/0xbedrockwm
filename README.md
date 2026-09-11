@@ -1,22 +1,19 @@
-# Hi there  I'm 0xbedrockwm
+# Hi there 👋 I'm 0xbedrockwm
 
 <img align="right" src="https://komarev.com/ghpvc/?username=0xbedrockwm&style=flat-square&color=blue" />
 
-**Network Engineer |  | IT Infrastructure**
-
+**Network Engineer | 🌐 | IT Infrastructure**
 
 ## About me
--  Network / Firewall / Virtualization
--  Interested in Security & Automation
 
-
-
+- 🔧 Network / Firewall / Virtualization
+- 🔐 Interested in Security & Automation
 
 ## Skills
+
 - FortiGate / VPN / SD-WAN
 - Windows Server / AD / GPO
 - Linux / Docker
-
 
 ## 📈 Live Languages & Activity
 
@@ -25,16 +22,12 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xbedrockwm&custom_title=Real-time%20Contribution%20Graph&hide_border=true&theme=github-compact" alt="Real-time activity graph" />
+  <img src="https://github-activity-graph-hazel.vercel.app/graph?username=0xbedrockwm&custom_title=Real-time%20Contribution%20Graph&hide_border=true&theme=github-compact" alt="Real-time activity graph" />
 </p>
 
-
-
-
-
 ## Contact
--  xxx-xxx@xxxx.xxx
 
+- 📧 xxx-xxx@xxxx.xxx
 
 ---
 
