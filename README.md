@@ -27,7 +27,7 @@
 
 ## Contact
 
-- 📧 xxx-xxx@xxxx.xxx
+- 📧 wisanumangkala@kitcencli.dev
 
 ---
 
