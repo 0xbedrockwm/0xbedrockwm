@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Wisanu MKL. BAS
+# Hi there 👋 I'm Wisanu MKL
 
 <img align="right" src="https://komarev.com/ghpvc/?username=0xbedrockwm&style=flat-square&color=blue" />
 
