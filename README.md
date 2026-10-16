@@ -21,9 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbedrockwm&layout=compact&langs_count=10&theme=transparent" alt="Top languages from recent repositories" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-activity-graph-hazel.vercel.app/graph?username=0xbedrockwm&custom_title=Real-time%20Contribution%20Graph&hide_border=true&theme=github-compact" alt="Real-time activity graph" />
-</p>
+</p> -->
 
 ## Contact
 
