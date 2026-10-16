@@ -27,7 +27,7 @@
 
 ## Contact
 
-- 📧 wisanumangkala@kitcencli.dev
+- 📧 administrator@kitcencli.dev
 
 ---
 
